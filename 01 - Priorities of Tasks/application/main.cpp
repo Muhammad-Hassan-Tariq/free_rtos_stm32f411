@@ -37,6 +37,7 @@ int main(void) {
     init_builtin_led();
 
     // Create LED task
+    // Experiment with priorities in functions below to see what happens!
     xTaskCreate(LedTask, "LED_A", 128, NULL, 2, NULL);
     xTaskCreate(LedAlternateTask, "LED_B", 128, NULL, 2, NULL);
 

@@ -30,6 +30,7 @@ This is not production firmware — it is a **silicon exploration lab**.
 
 ## 🗂 Projects [This Repo is not complete yet]
 - [01 - Priorities of Tasks](https://github.com/Muhammad-Hassan-Tariq/free_rtos_stm32f411/tree/main/01%20-%20Priorities%20of%20Tasks)
+- [02 - Mutexes](https://github.com/Muhammad-Hassan-Tariq/free_rtos_stm32f411/tree/main/02%20-%20Mutexes) 
 
 ### 📁 Project Directories 
 .  

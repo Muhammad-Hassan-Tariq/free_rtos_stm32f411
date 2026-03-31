@@ -14,3 +14,4 @@
 
 ## UART console output  
 - Producer produces 10 times at once but then it runs out of semaphores and has to wait for it's slot
+<img width="370" height="890" alt="2026-03-30-223249_hyprshot" src="https://github.com/user-attachments/assets/b7f647de-8d6c-419a-a1a6-c098d083387a" />
